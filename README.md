@@ -1,4 +1,4 @@
-* Just a fork to compile the image with Weriguard package.
+* Just a fork to compile the image with Wireguard package.
 
 # OpenWrt for Amlogic TV Boxes
 
