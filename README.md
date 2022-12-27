@@ -1,5 +1,3 @@
-* Just a fork to compile the image with Wireguard package.
-
 # OpenWrt for Amlogic TV Boxes
 
 View Chinese description  |  [查看中文说明](README.cn.md)
