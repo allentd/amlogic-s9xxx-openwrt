@@ -1723,12 +1723,12 @@ CONFIG_NETJSON_MONITORING_IWINFO=y
 # CONFIG_PACKAGE_auditd is not set
 # CONFIG_PACKAGE_backuppc is not set
 # CONFIG_PACKAGE_bottom is not set
-# CONFIG_PACKAGE_btop is not set
+CONFIG_PACKAGE_btop is not set
 # CONFIG_PACKAGE_debian-archive-keyring is not set
 # CONFIG_PACKAGE_debootstrap is not set
 # CONFIG_PACKAGE_fluent-bit is not set
 # CONFIG_PACKAGE_gkrellmd is not set
-# CONFIG_PACKAGE_htop=y
+CONFIG_PACKAGE_htop=y
 # CONFIG_PACKAGE_ipmitool is not set
 # CONFIG_PACKAGE_monit is not set
 # CONFIG_PACKAGE_monit-nossl is not set
@@ -4773,7 +4773,7 @@ CONFIG_PACKAGE_libdbus=y
 CONFIG_PACKAGE_libdeflate=y
 # CONFIG_PACKAGE_libdevmapper is not set
 # CONFIG_PACKAGE_libdevmapper-selinux is not set
-CONFIG_PACKAGE_libdht=y
+# CONFIG_PACKAGE_libdht=y
 # CONFIG_PACKAGE_libdmapsharing is not set
 # CONFIG_PACKAGE_libdnet is not set
 # CONFIG_PACKAGE_libdouble-conversion is not set
@@ -5295,7 +5295,7 @@ CONFIG_PACKAGE_luci-app-firewall=y
 # CONFIG_PACKAGE_luci-app-libreswan is not set
 # CONFIG_PACKAGE_luci-app-lldpd is not set
 # CONFIG_PACKAGE_luci-app-lorawan-basicstation is not set
-# CONFIG_PACKAGE_luci-app-lxc=y
+CONFIG_PACKAGE_luci-app-lxc=y
 # CONFIG_PACKAGE_luci-app-minidlna is not set
 # CONFIG_PACKAGE_luci-app-mjpg-streamer is not set
 # CONFIG_PACKAGE_luci-app-mosquitto is not set
@@ -7764,7 +7764,7 @@ CONFIG_PACKAGE_lscpu=y
 # CONFIG_PACKAGE_lslocks is not set
 # CONFIG_PACKAGE_lsns is not set
 CONFIG_PACKAGE_lsof=y
-# CONFIG_PACKAGE_lxc=y
+CONFIG_PACKAGE_lxc=y
 # CONFIG_PACKAGE_maccalc is not set
 # CONFIG_PACKAGE_macchanger is not set
 # CONFIG_PACKAGE_mandoc is not set
